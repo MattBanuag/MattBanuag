@@ -2,7 +2,7 @@
 
 # Hey👋, I'm Matthew Banuag
 
-``Digital Artisan (Developer/Student/Lifelong Leaner)``
+``Digital Artisan (Developer/Student/Lifelong Learner)``
 
 I'm a Software Developer student at the **Manitoba Institute of Trades and Technology** in Winnipeg! As a lifelong learning software developer, my aim is to create powerful and aesthetically pleasing websites that makes user's lives easier.
 ```JavaScript
