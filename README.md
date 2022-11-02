@@ -16,7 +16,7 @@ usersLifeEasy = true;
 
 - 🌟 My goal is to make a difference and contribute to the digital world
 
-- 📫 How to reach me **matthewbanuag.dev@gmail.com**
+- 📫 You can reach me here: **matthewbanuag.dev@gmail.com**
 
 - ⚡ Fun fact: I enjoy playing my guitar, going outdoors and watching Basketball games
 
