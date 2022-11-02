@@ -1,4 +1,5 @@
 ***
+
 # Hey👋, I'm Matthew Banuag
 
 ``Digital Artisan (Developer/Student/Lifelong Leaner)``
@@ -11,7 +12,7 @@ usersLifeEasy = true;
 ```
 - 🌱 I’m currently learning **everything**
 
-- 🤝 I'm enjoy collaborating with passionate developers
+- 🤝 I enjoy collaborating with passionate developers
 
 - 🌟 My goal is to make a difference and contribute to the digital world
 
