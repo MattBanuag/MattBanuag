@@ -1,5 +1,4 @@
 ***
-
 <img src="assets/hero.jpg?raw=true">
 # Hey👋, I'm Matthew Banuag
 
