@@ -1,5 +1,6 @@
 ***
-<img src="assets/hero.jpg?raw=true">
+
+![Lit up keys](assets/hero.jpg "Lit up keys")
 # Hey👋, I'm Matthew Banuag
 
 ``Digital Artisan (Developer/Student/Lifelong Learner)``
