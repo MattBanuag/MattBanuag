@@ -35,7 +35,6 @@ The first programming language I learned, was PHP. And after printing "Hello Wor
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattBanuag&langs_count=5&theme=tokyonight" alt="Matthew's 
   GitHub stats"/>
 </a>
-[![GitHub Streak](https://streak-stats.demolab.com?user=MattBanuag&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ***
 
