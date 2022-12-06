@@ -10,6 +10,8 @@ I'm a Software Developer student at the **Manitoba Institute of Trades and Techn
 function usersLifeEasy() {
   console.log("Better call Matt!");
 }
+
+usersLifeEasy();
 ```
 - 🌱 I’m currently learning **everything**
 
