@@ -7,9 +7,9 @@
 
 I'm a Software Developer student at the **Manitoba Institute of Trades and Technology** in Winnipeg! As a lifelong learning software developer, my aim is to create powerful and aesthetically pleasing websites that makes user's lives easier.
 ```JavaScript
-let usersLifeEasy = false;
-alert('INSERTING Matthew.....');
-usersLifeEasy = true;
+function usersLifeEasy() {
+  console.log("Better call Matt!");
+}
 ```
 - 🌱 I’m currently learning **everything**
 
