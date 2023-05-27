@@ -6,12 +6,18 @@
 ``Digital Artisan (Developer/Student/Lifelong Learner)``
 
 I'm a Software Developer student at the **Manitoba Institute of Trades and Technology** in Winnipeg! As a lifelong learning software developer, my aim is to create powerful and aesthetically pleasing websites that makes user's lives easier.
-```JavaScript
-function usersLifeEasy() {
-  console.log("Better call Matt!");
-}
+```C#
+Developer developer = new Developer();
+Console.WriteLine($"Name: {developer.Name}");
+Console.WriteLine($"Coffee Drinker: {developer.IsCoffeeDrinker}");
+Console.WriteLine($"LifeLong Learner: {developer.IsLifelongLearner}");
 
-usersLifeEasy();
+public class Developer
+{
+  public string Name { get { return "Matthew"; } } 
+  public bool IsCoffeeDrinker { get { return true; } }
+  public bool IsLifelongLearner { get { return true; } }
+}
 ```
 - 🌱 I’m currently learning **C#**
 
