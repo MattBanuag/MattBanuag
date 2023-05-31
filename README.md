@@ -19,7 +19,7 @@ public class Developer
   public bool IsLifelongLearner { get { return true; } }
 }
 ```
-- 🌱 I’m currently learning **C#**
+- 🌱 I’m currently learning **REACT JS**
 
 - 🤝 I enjoy collaborating with passionate developers
 
