@@ -50,10 +50,10 @@ The first programming language I learned, was PHP. And after printing "Hello Wor
 
 ### My Stats
 <a href="https://github.com/MattBanuag">
-  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api/?username=MattBanuag&count_private=true&theme=tokyonight&showicons=true" alt="Matthew's GitHub stats" />
+  <img height="205px" align="center" src="https://github-readme-stats.vercel.app/api/?username=MattBanuag&count_private=true&theme=transparent&showicons=true" alt="Matthew's GitHub stats" />
 </a>
 <a href="https://github.com/MattBanuag">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattBanuag&langs_count=5&theme=tokyonight" alt="Matthew's 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MattBanuag&langs_count=5&theme=transparent" alt="Matthew's 
   GitHub stats"/>
 </a>
 
