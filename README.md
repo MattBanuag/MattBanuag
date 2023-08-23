@@ -3,9 +3,10 @@
 ![Lit up keys](assets/hero.jpg "Lit up keys")
 # Hey👋, I'm Matthew Banuag
 
-``Digital Artisan (Developer/Student/Lifelong Learner)``
+``Digital Artisan (Developer/Lifelong Learner)``
 
-I'm a Software Developer student at the **Manitoba Institute of Trades and Technology** in Winnipeg! As a lifelong learning software developer, my aim is to create powerful and aesthetically pleasing websites that makes user's lives easier.
+I'm a Software Developer graduate of the **Manitoba Institute of Trades and Technology** in Winnipeg! I write code, drink coffee, and shoot hoops.
+
 ```C#
 Developer developer = new Developer();
 Console.WriteLine($"Name: {developer.Name}");
@@ -19,11 +20,11 @@ public class Developer
   public bool IsLifelongLearner { get { return true; } }
 }
 ```
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **REACT TypeScript**
 
 - 🤝 I enjoy collaborating with passionate developers
 
-- 🌟 My goal is to make a difference and contribute to the digital world
+- 🌟 My goal is to contribute to the digital world
 
 - 📫 You can reach me here: **matthewbanuag.dev@gmail.com**
 
@@ -32,7 +33,7 @@ public class Developer
 ### My Coding Journey
 The first programming language I learned, was PHP. And after printing "Hello World" on the screen numerous times, I was hooked. It felt like I had powers that no one else had. So I pushed on, creating web applications, playing with databases, and all the other fun stuff. I knew in my heart I wanted to be a programmer, but life had other plans. Somewhere along the line, I started to drift away from programming and focus on other things. But just last year, I finally decided to come back to what I loved doing, writing code. 
 
-### Languages, Frameworks and Tools
+### Languages, Frameworks, and Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
