@@ -20,7 +20,7 @@ public class Developer
   public bool IsLifelongLearner { get { return true; } }
 }
 ```
-- 🌱 I’m currently learning **REACT TypeScript**
+- 🌱 I’m currently learning **Python**
 
 - 🤝 I enjoy collaborating with passionate developers
 
