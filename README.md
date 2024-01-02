@@ -28,7 +28,7 @@ public class Developer
 
 - 📫 You can reach me here: **matthewbanuag.dev@gmail.com**
 
-- ⚡ Fun fact: I enjoy playing the guitar, going outdoors and playing Basketball
+- ⚡ Fun fact: I enjoy playing the guitar, shooting hoops, and hustling on Elden Ring
 
 ### My Coding Journey
 The first programming language I learned, was PHP. And after printing "Hello World" on the screen numerous times, I was hooked. It felt like I had powers that no one else had. So I pushed on, creating web applications, playing with databases, and all the other fun stuff. I knew in my heart I wanted to be a programmer, but life had other plans. Somewhere along the line, I started to drift away from programming and focus on other things. But just last year, I finally decided to come back to what I loved doing, writing code. 
