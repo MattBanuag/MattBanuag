@@ -7,17 +7,17 @@
 
 I'm a Software Developer graduate at the **Manitoba Institute of Trades and Technology** in Winnipeg! I write code, drink coffee, and shoot hoops.
 
-```C#
-Developer developer = new Developer();
-Console.WriteLine($"Name: {developer.Name}");
-Console.WriteLine($"Coffee Drinker: {developer.IsCoffeeDrinker}");
-Console.WriteLine($"LifeLong Learner: {developer.IsLifelongLearner}");
+```Typescript
+/* Method to fix any programming bug. You can quote this */
+const matthewsDebugger = (bug: any): void => {
+  bug && console.log("Bug detected. Debugging in progress, please wait....");
+  bug && console.log("Bug solved, carry on.");
+}
 
-public class Developer
-{
-  public string Name { get { return "Matthew"; } } 
-  public bool IsCoffeeDrinker { get { return true; } }
-  public bool IsLifelongLearner { get { return true; } }
+/* Attempt to fix bug. Hoping all goes well :) */
+let bug: boolean = true;
+while(bug) {
+  matthewsDebugger(bug);
 }
 ```
 - 🌱 I’m currently learning **Python**
